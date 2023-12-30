@@ -4,7 +4,7 @@ This Python script generates random passwords based on user preferences for leng
 
 ## Usage
 
-1. Run the Python script `password_generator.py`.
+1. Run the Python script `password_generate.py`.
 2. Enter the desired length for your password when prompted.
 3. The script will generate a random password containing a mix of alphabetical characters, numbers, and special symbols.
 4. You can choose to generate another password or quit.
